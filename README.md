@@ -1,2 +1,2 @@
 # test-repo
-testing
+testings
